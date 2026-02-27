@@ -3,6 +3,7 @@ This application acts as a high-quality real-time audio processor. It captures y
 1. Prerequisites
 Before using the software, you must install the virtual audio driver that connects Python to OBS.
 Install VB-CABLE: Download here.
+https://vb-audio.com/Cable/
 Installation Note: Extract the folder, right-click VBCABLE_Setup_x64.exe, and select Run as Administrator.
 Restart Required: You must reboot your PC after installation for the virtual device to appear in Windows. 
 VB-Audio
